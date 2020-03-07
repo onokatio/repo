@@ -128,7 +128,6 @@
 	<project path="subdomain.katio.net" name="subdomain.katio.net" />
 	<project path="t-con-script" name="t-con-script" />
 	<project path="tanka" name="tanka" />
-	<project path="templates" name="templates" />
 	<project path="terminalshare" name="terminalshare" />
 	<project path="terraform-provider-n0stack" name="terraform-provider-n0stack" />
 	<project path="terraform-provider-n0stack-yamlcompiler" name="terraform-provider-n0stack-yamlcompiler" />
